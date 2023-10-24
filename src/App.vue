@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import HelloWorld from './components/HelloWorld.vue'
+import InputForm from './components/InputForm.vue';
 import TheWelcome from './components/TheWelcome.vue'
 </script>
 
@@ -13,7 +14,7 @@ import TheWelcome from './components/TheWelcome.vue'
   </header>
 
   <main>
-    <TheWelcome />
+    <InputForm />
   </main>
 </template>
 
