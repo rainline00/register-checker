@@ -10,5 +10,5 @@ jobs:
       uses: xRealNeon/VuePagesAction@1.0.1
       with:
         username: 'rainline00'
-        reponame: 'resister-checker'
+        reponame: 'register-checker'
         token: ${{ secrets.GITHUB_TOKEN }} # Leave this line unchanged
